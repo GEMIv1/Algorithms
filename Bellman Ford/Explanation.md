@@ -5,7 +5,7 @@ Bellman-Ford calculates the minimum distance from a starting node to all other n
 
 </p>
 
-<h2>How?</h2>
+<h2>How to implement it with dp?</h2>
 <h3>Step 1: Initialization</h3>
 <p>
 
