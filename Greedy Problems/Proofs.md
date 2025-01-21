@@ -1,7 +1,7 @@
 ## 1) Customer Scheduling:
 ### Proof: Sorting Service Times in Increasing Order Minimizes Total Waiting Time
 
-Let us assume there are `n` customers, where each customer $ a_i $ has a service time $ t_i $. The total waiting time for all customers is the sum of their individual waiting times, which depends on the order in which customers are served. We aim to prove that sorting the service times in increasing order minimizes the total waiting time.
+Let us assume there are `n` customers, where each customer \( a_i \) has a service time $ t_i $. The total waiting time for all customers is the sum of their individual waiting times, which depends on the order in which customers are served. We aim to prove that sorting the service times in increasing order minimizes the total waiting time.
 
 ### Argument:
 - Suppose the service times $t_1, t_2, \dots, t_n $ are **not** sorted in increasing order.
